@@ -1,3 +1,5 @@
 # Carnet-adresses
 
-Tout premier projet, soyez indulgent.
+Inspiré des contacts MacOS.
+
+Tout premier projet Java avec interface graphique, soyez indulgent. ^^
